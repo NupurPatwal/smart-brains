@@ -2,6 +2,123 @@
 
 ## About the folder:
 
+### 07_Nov:
+>Patterns:
+1. Diamond Pattern
+
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+
+
+2. Hollow Diamond Pattern
+
+
+    *
+   * *
+  *   *
+ *     *
+*       *
+ *     *
+  *   *
+   * *
+    *
+
+
+3. Hourglass Pattern
+
+*********
+ *******
+  *****
+   ***
+    *
+   ***
+  *****
+ *******
+*********
+
+
+4. Hollow Square Pattern
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+
+5. Pyramid Pattern
+
+    *
+   ***
+  *****
+ *******
+*********
+
+
+6. Hollow Pyramid Pattern
+
+
+    *
+   * *
+  *   *
+ *     *
+*********
+
+7. Inverted Pyramid Pattern
+
+*********
+ *******
+  *****
+   ***
+    *
+
+
+8. Right Triangle Pattern
+
+
+*
+**
+***
+****
+*****
+
+
+9. Hollow Right Triangle Pattern
+
+
+*
+**
+* *
+*  *
+*****
+
+
+10. Left Triangle Pattern
+
+
+    *
+   **
+  ***
+ ****
+*****
+
+
+### 11. Hollow Left Triangle Pattern
+For n = 5:
+
+    *
+   **
+  * *
+ *  *
+*****
+
 ### 08_Nov:
 
 > calculator based on JS DOM
