@@ -1,11 +1,15 @@
 # smart-brains
+
 ## About the folder:
 
 ### 08_Nov:
+
 > calculator based on JS DOM
+
 > DOm Manipulation topics and questions.
 
 Questions:
+
 1. Greeting Program: Write a program that takes a user's firstName and lastName as input and displays a greeting message in the format: "Hello [firstName] [lastName]!".
 
 2. Even or Odd Checker: Create a program that prompts the user to input a number and checks whether the number is even or odd. The output should clearly state if the number is even or odd.
