@@ -3,121 +3,143 @@
 ## About the folder:
 
 ### 07_Nov:
->Patterns:
+
+> Patterns:
+
 1. Diamond Pattern
 
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
+   -
 
+   ***
+
+   ***
+
+---
+
+---
+
+---
+
+---
+
+---
+
+    *
 
 2. Hollow Diamond Pattern
 
+   -
+   - -
 
-    *
-   * *
-  *   *
- *     *
-*       *
- *     *
-  *   *
-   * *
-    *
-
+- -
+-     *
+-       *
+-     *
+- -
+- -
+-
 
 3. Hourglass Pattern
 
-*********
- *******
-  *****
-   ***
-    *
-   ***
-  *****
- *******
-*********
+---
 
+---
+
+---
+
+---
+
+    *
+
+---
+
+---
+
+---
+
+---
 
 4. Hollow Square Pattern
 
-* * * * *
-*       *
-*       *
-*       *
-* * * * *
+---
 
+-       *
+-       *
+-       *
+
+---
 
 5. Pyramid Pattern
 
-    *
-   ***
-  *****
- *******
-*********
+   -
 
+   ***
+
+   ***
+
+---
+
+---
 
 6. Hollow Pyramid Pattern
 
+   -
+   - -
 
-    *
-   * *
-  *   *
- *     *
-*********
+- -
+-     *
+
+---
 
 7. Inverted Pyramid Pattern
 
-*********
- *******
-  *****
-   ***
-    *
+---
 
+---
+
+---
+
+---
+
+    *
 
 8. Right Triangle Pattern
 
-
-*
-**
-***
-****
-*****
-
+- \*\*
+  ***
+  ***
+  ***
 
 9. Hollow Right Triangle Pattern
 
+- \*\*
+- -
+- -
 
-*
-**
-* *
-*  *
-*****
-
+---
 
 10. Left Triangle Pattern
 
+    - \*\*
 
-    *
-   **
-  ***
- ****
-*****
+---
 
+---
+
+---
 
 ### 11. Hollow Left Triangle Pattern
+
 For n = 5:
 
     *
-   **
-  * *
- *  *
-*****
+
+\*\*
+
+- -
+- -
+
+---
 
 ### 08_Nov:
 
@@ -146,3 +168,7 @@ Questions:
 9. Vowel Counter: Write a program that takes a string as input and counts the total number of vowels in it. Display the vowel count along with the input string.
 
 10. Guess the Number Game: Develop a program that generates a random number between 1 and 10 and prompts the user to guess it. If the user's guess matches the random number, display a success message; otherwise, ask the user to try again.
+
+### 11_Nov:
+
+1. Calculator and some logical questions

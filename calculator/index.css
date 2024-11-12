@@ -34,3 +34,12 @@ button {
   border: 3px solid black;
   width: 260px;
 }
+
+.op {
+  background-color: rgb(245, 173, 39);
+  font-weight: bolder;
+}
+.clear {
+  background-color: grey;
+  font-weight: bolder;
+}
