@@ -8,11 +8,9 @@
 
 1. Diamond Pattern
 
-   -
+   - ***
 
-   ***
-
-   ***
+     ***
 
 ---
 
@@ -71,11 +69,9 @@
 
 5. Pyramid Pattern
 
-   -
+   - ***
 
-   ***
-
-   ***
+     ***
 
 ---
 
@@ -172,3 +168,25 @@ Questions:
 ### 11_Nov:
 
 1. Calculator and some logical questions
+
+### 12_Nov:
+
+1. query selector and query selector ALL
+2. innerHTml and all d/f.
+
+> Es6 handles asynchrous ops.
+> updated features on js.
+> makes js more efficient.
+
+1. Hoisting:
+2. functions
+3. objects
+4. Promises
+5. template literal , var literals
+6. destructuring
+7. Array and its methods
+8. Async await
+9. Error Handling.
+10. Map Set weak map weak Set
+
+> js is sync.

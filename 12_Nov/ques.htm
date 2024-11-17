@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button {
+            background: rgb(236, 47, 47);
+
+
+        }
+
+        body {
+            background: rgb(167, 140, 91);
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+    <button>Click Here~</button>
+    <script>
+        const btn = document.querySelector("button")
+        const body = document.querySelector("body")
+        btn.addEventListener("click", () => {
+            btn.style.backgroundColor = "magenta"
+            body.style.background = "cornflowerblue"
+        })
+    </script>
+</body>
+
+</html>
