@@ -5,8 +5,11 @@ const num_02 = prompt("Enter the second number");
 const num_03 = prompt("Enter the third number");
 if (num_01 > num_02 && num_01 > num_03) {
   alert(` Congrats! ${num_01} is greater.`);
+  console.log(` Congrats! ${num_01} is greater.`);
 } else if (num_02 > num_03 && num_02 > num_01) {
   alert(` Kudos! ${num_02} is greater.`);
+  console.log(` Congrats! ${num_02} is greater.`);
 } else {
   alert(`Congratulations! ${num_03} is greater.`);
+  console.log(` Congrats! ${num_03} is greater.`);
 }
